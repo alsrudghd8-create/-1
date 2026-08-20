@@ -1,0 +1,6 @@
+{
+  "name": "우주 곰돌이의 분수 어드벤처",
+  "description": "초등학교 4학년 2학기 분수의 덧셈과 뺄셈을 우주를 유영하는 곰돌이와 함께 재미있게 배우는 우주 수학 액션 러닝 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
